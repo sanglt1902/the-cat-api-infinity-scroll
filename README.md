@@ -1,0 +1,3 @@
+echo "# the-cat-api-infinity-scroll" >> README.md git init git add README.md git commit -m "first commit" git remote add origin https://github.com/sanglt1902/the-cat-api-infinity-scroll.git git push -u origin master
+
+echo "# the-cat-api-infinity-scroll" >> README.md git init git add README.md git commit -m "first commit" git remote add origin git@github.com:sanglt1902/the-cat-api-infinity-scroll.git git push -u origin master
