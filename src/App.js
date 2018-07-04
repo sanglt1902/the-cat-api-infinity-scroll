@@ -11,7 +11,7 @@ const style = {
   height: "auto",
 };
 
-const api = 'http://thecatapi.com/api/images/get?format=xml&results_per_page=5';
+const api = 'https://thecatapi.com/api/images/get?format=xml&results_per_page=5';
 let parser = new DOMParser();
 
 class App extends Component {
